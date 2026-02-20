@@ -262,7 +262,7 @@ For those who said:
 
 > "We don't allow bash here."
 
-## Scala
+## 🧬 Scala (Enterprise-Grade Repo Hoarding)
 Scala is perfect for this, because it lets you be both elegant and dramatically over-engineered at the same time.
 
 Because cloning a bunch of repos is clearly a distributed systems problem.
