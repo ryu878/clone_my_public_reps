@@ -295,3 +295,23 @@ We will:
 - Traverse paginated API responses
 - Compose side effects responsibly
 - Then finally perform `IO` like civilized humans
+
+### Why Haskell?
+
+Because:
+
+- Side effects must be contained.
+- Cloning repos is impure.
+- Purity must be defended.
+
+### Warning
+
+After implementing this in Haskell you may:
+- Start using mapM_ in daily conversation
+- Explain monads to friends at dinner
+- Refuse to write mutable code ever again
+
+There are too many repos.
+
+So naturally, we solved it
+with category theory.
