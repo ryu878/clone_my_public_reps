@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Clone all public repositories of GitHub user ryu878 into the current directory.
-Uses clone URL format: git@github-first:ryu878/REPO_NAME.git
+Uses clone URL format: https://github.com:ryu878/REPO_NAME.git
 """
 
 import subprocess
@@ -16,7 +16,7 @@ except ImportError:
 
 GITHUB_USER = "ryu878"
 BASE_URL = "https://api.github.com"
-CLONE_PREFIX = "git@github.com:ryu878"
+CLONE_PREFIX = "https://github.com:ryu878"
 PER_PAGE = 100
 
 
