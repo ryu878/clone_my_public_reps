@@ -283,7 +283,7 @@ Choose your language wisely.
 
 Or implement them all.
 
-But wait... Where is Haskell? Leaving out Haskell was... morally incorrect.
+But wait... **Where is Haskell**? Leaving out Haskell was... **morally incorrect**.
 
 ## 🧙 Haskell (Academic Superiority Mode)
 
