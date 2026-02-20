@@ -273,7 +273,7 @@ Because at this point, it's not about cloning.
 
 It's about commitment.
 
-🏁 Final Thoughts
+## 🏁 Final Thoughts
 
 Cloning one repository is normal.
 
