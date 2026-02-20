@@ -104,6 +104,13 @@ Because:
 - Only clones public repositories
 - Will not overwrite existing folders (git will fail if repo exists)
 
+## 🧠 Requirements
+
+- git
+- curl
+
+That’s it.
+
 ## 🧨 Warning
 
 After cloning everything, you may:
@@ -142,13 +149,6 @@ Run it:
 ```bash
 ./clone_all.sh
 ```
-
-## 🧠 Requirements
-
-- git
-- curl
-
-That’s it.
 
 ## 🎯 Why This Exists
 
