@@ -271,9 +271,13 @@ Scala gives you:
 - Functional vibes
 - Enterprise energy
 - The ability to say
+  
 > "this could be an Akka stream"
+
 or
+
 > "we’re on the JVM"
+
 with a straight face
 
 ## 🧙 The Absurd Version
