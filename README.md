@@ -21,7 +21,7 @@ And we like scalable things.
 ## 😎 What This Does
 
 - Fetches all public repositories of **ryu878**
-- Clones them via SSH
+- Clones them via HTTPS
 - Drops them into your current directory
 - Makes you look efficient and slightly dangerous
 
