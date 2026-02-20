@@ -190,6 +190,7 @@ Makes you feel productive.
 ## 🐚 Bash (Minimalist Chaos Mode)
 
 No Python. No pip. No mercy.
+
 Runs everywhere. Parses JSON with grep like it's 2009.
 
 ## 🟢 Node.js (Frontend Developer Went Rogue)
@@ -206,11 +207,11 @@ Bonus points if you add:
 - 17 npm dependencies
 - a progress spinner
 
-🦀 Rust (Performance Matters For Cloning 30 Repos)
+## 🦀 Rust (Performance Matters For Cloning 30 Repos)
 
-Blazing fast GitHub API calls.
-Compiled binary.
-Zero runtime overhead.
+ Blazing fast GitHub API calls.
+ Compiled binary.
+ Zero runtime overhead.
 
-Totally unnecessary.
-Absolutely correct.
+ Totally unnecessary.
+ Absolutely correct.
