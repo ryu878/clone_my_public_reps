@@ -120,7 +120,7 @@ You were warned.
 
 If you're thinking:
 
-> "Nice script… but I refuse to install anything."
+> "Nice script... but I refuse to install anything."
 
 Good news.  
 You don’t need Python.  
@@ -260,7 +260,7 @@ Danger level: high.
 
 For those who said:
 
-“We don't allow bash here.”
+> "We don't allow bash here."
 
 ## 🧙 The Absurd Version
 
