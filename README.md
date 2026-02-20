@@ -261,3 +261,37 @@ Danger level: high.
 For those who said:
 
 “We don't allow bash here.”
+
+## 🧙 The Absurd Version
+
+- Brainfuck
+- Assembly
+- Excel VBA
+- Terraform module that provisions a VM just to clone repos
+
+Because at this point, it's not about cloning.
+
+It's about commitment.
+
+🏁 Final Thoughts
+
+Cloning one repository is normal.
+
+Cloning all repositories at once is a personality trait.
+
+Choose your language wisely.
+
+Or implement them all.
+
+But wait... Where is Haskell? Leaving out Haskell was... morally incorrect.
+
+## 🧙 Haskell (Academic Superiority Mode)
+
+Because cloning repositories is obviously a pure functional problem.
+
+We will:
+
+- Model GitHub as a Monad
+- Traverse paginated API responses
+- Compose side effects responsibly
+- Then finally perform `IO` like civilized humans
