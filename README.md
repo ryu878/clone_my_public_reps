@@ -209,9 +209,8 @@ Bonus points if you add:
 
 ## 🦀 Rust (Performance Matters For Cloning 30 Repos)
 
- Blazing fast GitHub API calls.
- Compiled binary.
- Zero runtime overhead.
+- Blazing fast GitHub API calls.
+- Compiled binary.
+- Zero runtime overhead.
+- Totally unnecessary.
 
- Totally unnecessary.
- Absolutely correct.
