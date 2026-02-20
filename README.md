@@ -1,4 +1,4 @@
-# 🚀 Clone All My Repos (Because There Are Just Too Many)
+# 🚀 Clone All My Repos
 
 You know that feeling when someone says:
 
@@ -52,7 +52,7 @@ https://api.github.com/users/ryu878/repos
 
 ### 3. Runs:
 ```bash
-git clone git@github.com:ryu878/REPO_NAME.git
+git clone https://github.com:ryu878/REPO_NAME.git
 ```
 
 For. Every. Repo.
@@ -170,7 +170,7 @@ Choose your weapon:
 - 🐚 Shell version (minimalist chaos energy)
 
 Both will clone everything.
-Because typing git clone `57 times` is not a lifestyle.
+Because typing `git clone` 57 times is not a lifestyle.
 
 ## TODO:
 
@@ -226,8 +226,10 @@ Nobody knows.
 
 ## ☕ Java (Enterprise Edition)
 
-- 14 classes
-- 3 interfaces
+- 14 classes  
+- 3 interfaces  
+- 1 abstract factory  
+- 0 regret
 - Factory pattern
 - RepositoryRepository
 
@@ -330,7 +332,9 @@ After implementing this in Haskell you may:
 - Explain monads to friends at dinner
 - Refuse to write mutable code ever again
 
-There are too many repos.
+There are too many repos. We didn't clone repos. We constructed them.
 
-So naturally, we solved it
-with category theory.
+So naturally, we solved it with category theory.
+
+## P.S.
+If this README gets longer, I will need a script to clone the README.
