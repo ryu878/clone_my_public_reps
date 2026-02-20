@@ -266,6 +266,7 @@ For those who said:
 Scala is perfect for this, because it lets you be both elegant and dramatically over-engineered at the same time.
 
 Because cloning a bunch of repos is clearly a distributed systems problem.
+
 Scala gives you:
 
 - Functional vibes
