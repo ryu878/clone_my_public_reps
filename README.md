@@ -74,4 +74,4 @@ python clone_all.py
 ```
 
 Boom 💥
-All repos cloned into *ryu-world/*.
+All repos cloned into `ryu-world/`.
