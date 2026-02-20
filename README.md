@@ -307,7 +307,7 @@ Because:
 ### Warning
 
 After implementing this in Haskell you may:
-- Start using mapM_ in daily conversation
+- Start using `mapM_` in daily conversation
 - Explain monads to friends at dinner
 - Refuse to write mutable code ever again
 
