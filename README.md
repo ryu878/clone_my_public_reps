@@ -114,4 +114,28 @@ After cloning everything, you may:
 
 You were warned.
 
+---
+
+## 🐚 Ultra-Lazy Mode (No Python. No Dependencies. No Drama.)
+
+If you're thinking:
+
+> "Nice script… but I refuse to install anything."
+
+Good news.  
+You don’t need Python.  
+You don’t need `pip`.  
+You barely need motivation.
+
+Just use the shell version.
+
+---
+
+### ⚡ One-Minute Setup
+
+Create a file:
+
+```bash
+nano clone_all.sh
+
 ## Enjoy 🚀
